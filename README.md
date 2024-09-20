@@ -1,7 +1,7 @@
 ### Hola, soy Rufino 👋🏻🧑🏻‍💻
 
-Soy desarrollador de software, me gusta mucha aprender nuevas tecnologias, actualmente estoy estudiando ingles y aprendiendo Go/Golang.
-- 🔭 Actualmente estoy trabajando en Decode. Trabajamos con php, typescript, ionic, laravel y reactjs
+Soy desarrollador de software, me gusta mucho aprender nuevas tecnologias, actualmente estoy estudiando ingles y aprendiendo Go/Golang.
+- 🔭 Estoy trabajando en Decode. Trabajamos con php, typescript, ionic, laravel y reactjs
 
 
 ## Experiencia
